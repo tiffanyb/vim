@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/tiffanyb/Research/function/function-boundary-identification/paper/experiment'
+let g:netrw_dirhist_2='/Users/tiffanyb/Research/function/function-boundary-identification/paper/design'
+let g:netrw_dirhist_3='/Users/tiffanyb/dotfiles/vim'
+let g:netrw_dirhist_4='/Users/tiffanyb/Course/15411/aluminium/lab6cyoa'
+let g:netrw_dirhist_5='/Users/tiffanyb/Course/15411/aluminium/lab6cyoa/tests'
+let g:netrw_dirhist_6='/Users/tiffanyb/Research/FBI/experiment/gcc-4.7.2/INSTALL'
+let g:netrw_dirhist_7='/Users/tiffanyb/Research/FBI/function-boundary-identification/utils-proj'
+let g:netrw_dirhist_8='/Users/tiffanyb/Research/FBI/bap-BW/ocaml'
